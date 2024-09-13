@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:#383735;
+   }
+   h1{
+    text-align: center;
+    color:#e9f0e9
+   }
+   #myChart{
+    margin:auto;
+    background-color: #2e2d2d;
+    justify-content: center;
+    align-items: center;
+   }
